@@ -24,3 +24,4 @@
 
 <p>&nbsp;<img style="display:block;" src="https://github-readme-stats.vercel.app/api?username=eyosiyas7&show_icons=true&locale=en" alt="eyosiyas7" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyosiyas7&" alt="eyosiyas7" /></p>
