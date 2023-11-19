@@ -2,7 +2,7 @@
 ![MasterHead](https://i.pinimg.com/originals/71/ee/32/71ee32577432648f9e45fbd63b2cf261.jpg)]
 
 <h1 align="center">Hi 👋, I'm EYOSIYAS</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate  developer</h3>
 <img align="right" alt="Coding" width="300" height="300" src="https://www.inventateq.com/assets/python/small.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyosiyas7&label=Profile%20views&color=0e75b6&style=flat" alt="eyosiyas7" /> </p>
 
