@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Projects**
 
-- 🌱 A Software engineering Working on Blockchain **
+- 🌱 A Software engineer Working on Blockchain 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
